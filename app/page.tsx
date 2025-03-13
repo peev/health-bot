@@ -108,6 +108,7 @@ export default function Home() {
     setInput('');
     setIsLoading(true);
 
+    //asdsd
     try {
       // Process the message client-side instead of calling an API
       setTimeout(() => {
